@@ -29,6 +29,9 @@ The user can:
 
 - *Coming soon:* An optimal solver, based on the concept of neural networks, that will solve the cube in 20 or fewer moves.
 
+### Demonstration:
+
+https://youtu.be/Q9b7Y8Hj90A :)
 
     Note:
     This project is the improved version of my 2nd year personal project (dated 1st Dec 2022) for the 
